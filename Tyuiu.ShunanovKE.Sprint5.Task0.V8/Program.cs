@@ -12,7 +12,7 @@ namespace Tyuiu.ShunanovKE.Sprint5.Task0.V8
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт#4 | Выполнил: Шунанов К. Е. | ПКТб-23-2";
+            Console.Title = "Спринт#5 | Выполнил: Шунанов К. Е. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                        *");
